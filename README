@@ -1,0 +1,10 @@
+This is a simple command-line implementation of the classic Tic-Tac-Toe game 
+written in Python. The game allows a human player to play against the computer.
+The player uses "X" and the computer uses "O". The game continues until there is a winner or a tie.
+
+
+Features
+Two-player mode: Human vs. Computer.
+Randomized computer moves.
+Checks for win conditions after each move.
+Detects tie games when the board is full.
